@@ -61,7 +61,7 @@ into a SQL Server database while handling rejected records separately.
 - SQL Server Integration Services (SSIS)
 - SQL Server
 - Visual Studio
-- T-SQL
+
 
 ---
 
