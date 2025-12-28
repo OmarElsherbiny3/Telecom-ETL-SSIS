@@ -62,8 +62,10 @@ into a SQL Server database while handling rejected records separately.
 - SQL Server
 - Visual Studio
 
-
 ---
-
 ## Project Structure
 
+Package.dtsx            → Main SSIS ETL package
+Project.params          → SSIS project parameters
+Telcom ETL.dtproj       → SSIS project configuration
+Telcom ETL.sln          → Visual Studio solution file
